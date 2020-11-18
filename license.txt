@@ -29,11 +29,4 @@ below or such other licences that shall apply to such data and datasets and shal
 not be copied, merged, published, distributed, sublicensed or sold whether separately or 
 as part of the Software except in accordance with the appropriate licence.
 
-The datasets sourced via the APIs in the code/proptech.ipynb, all of which are set out below, are licensed under the terms of the Open Government Licence (OGL) v3.0. 
-See http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/.
-
 Contains OS data © Crown copyright and database right 2020.
-
-Contains National Statistics data © Crown copyright and database right 2020.
-
-Contains HM Land Registry data © Crown copyright and database right 2020.
