@@ -7,10 +7,26 @@ Python 3.8 or higher.
 
 ## Installation
 
+### From PyPI
+
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install OS-PAW.
 
 ```bash
 pip install os-paw
+```
+
+### From Github
+
+Fork this repository and clone it to a local folder. We recommend using venv (virtual environment) to manage your python environment, but Anaconda will also work. 
+If you have not already done so, add Python to your PATH. On Windows, open a Command Prompt and change directory (cd) to the local folder where this repository was cloned. 
+Now create a virtual environment:
+```bash
+python -m venv venv
+```
+Now activate your environment and install the local dependencies:
+```bash
+venv\Scripts\activate
+pip install -r requirements.txt
 ```
 
 ## Usage
