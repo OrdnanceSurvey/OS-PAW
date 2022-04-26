@@ -1,5 +1,8 @@
 # OS-PAW
 
+> :warning: **NOTE:** This repository is now deprecated and has been replaced by the [`osdatahub` library](https://github.com/OrdnanceSurvey/osdatahub). Please use `osdatahub` instead of OS-PAW for any access to the OS Data Hub using Python.
+
+
 OS-PAW is the Ordnance Survey Python API Wrapper designed to make data from the OS Data Hub APIs readily accessible to python developers.
 
 ## Requirements
